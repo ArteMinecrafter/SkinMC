@@ -1,0 +1,2 @@
+# SkinMC
+MineCraft Skin Manager
